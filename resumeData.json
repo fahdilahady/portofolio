@@ -1,21 +1,21 @@
 {
     "main": {
         "name": "Fahdil Ahady Hazain",
-        "occupation": "(Your Occupation Here)",
-        "description": "Im from Indonesia, Born in Jakarta ",
+        "occupation": "Software Quality Assurance Engineer",
+        "description": "Born to be Expert In Quality Engineering",
         "image": "profilepic.jpg",
-        "bio": "Hello My name Fahdil Ahady Hazain, I am super Hero",
+        "bio": "I am an experienced Software Engineer that has worked on multiple projects for some of the biggest clients. My expertise ranges from building test automation frameworks using Selenium and Python to writing complex API's in Jmeter or Postman, setting up CI/CD processes for development teams, and analyzing business requirements. I'm also well-versed with working on different data domains like electrical instrumentation and natural resource management. My main goal is to provide quality deliverables to our clients by leveraging the best tool for solving their problems",
         "contactmessage": "Do not hesitate to to reach me any time.",
         "email": "hazain.ahady@gmail.com",
         "phone": "+62 87889507343",
         "address": {
             "street": "Komp. Karang Tengah Permai Blok TJ/9",
             "city": "Ciledug",
-            "state": "Jakarta",
-            "zip": ""
+            "state": "Tangerang",
+            "zip": "15159"
         },
-        "website": "",
-        "resumedownload": "",
+        "website": "https://hazainworld.blogspot.com/",
+        "resumedownload": "https://drive.google.com/file/d/1hQc3uhIRPBoVC2TXrKN45Ir50QIWHDQe/view?usp=sharing",
         "social": [
             {
                 "name": "facebook",
@@ -23,173 +23,190 @@
                 "className": "fa fa-facebook"
             },
             {
-                "name": "twitter",
-                "url": "http://twitter.com/rakhasn",
-                "className": "fa fa-twitter"
-            },
-            {
-                "name": "google-plus",
-                "url": "http://googleplus.com/rakhasn",
-                "className": "fa fa-google-plus"
-            },
-            {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/raka-settya-cahya-nugroho-952b76161/",
+                "url": "https://www.linkedin.com/in/hazainfahdil",
                 "className": "fa fa-linkedin"
             },
             {
                 "name": "instagram",
-                "url": "http://instagram.com/rakhasn",
+                "url": "https://www.instagram.com/fahdilhazain",
                 "className": "fa fa-instagram"
             },
             {
                 "name": "github",
                 "url": "http://github.com/fahdilahady",
                 "className": "fa fa-github"
-            },
-            {
-                "name": "skype",
-                "url": "http://skype.com",
-                "className": "fa fa-skype"
             }
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "I never works a day in my life, it's all just fun - A. Edisson 1931",
         "education": [
             {
-                "school": "AMIKOM University",
-                "degree": "Bachelor Degree",
-                "graduated": "2016",
-                "description": "Chapter 2 from building fundamental programming technology to build some kraken and released."
+                "school": "Bina Nusantara University",
+                "degree": "Master of IT",
+                "graduated": "2014",
+                "description": "Mastering Information Technology, which take interest on microcontrol software engineering"
             },
             {
-                "school": "Telkom Vocational School",
-                "degree": "Software Engineering",
-                "graduated": "2012",
-                "description": "Building fundamental about programming technology."
+                "school": "Bogor Agricultural University",
+                "degree": "Bachelor of Science - Geophysic and Meteorology",
+                "graduated": "2009",
+                "description": "Mastering Electrical instrumentation for agriculture, hydrology and aviation"
             }
         ],
         "work": [
             {
-                "company": "Marlin Booking",
-                "title": "React Native Developer",
-                "years": "September 2018 - Present",
-                "description": "Build an Mobile Apps For Ferry Booking and Attraction."
+                "company": "mhealthbank.com",
+                "title": "Software Quality Assurance Lead",
+                "years": "September 2020 - Present",
+                "description": "Lead a small team to delivery best quality of healthcare mobile and web application"
             },
             {
-                "company": "Komuri Geekgarden",
-                "title": "Project Manager",
-                "years": "December 2017 - September 2018",
-                "description": "Management on Project Sabaindomedika, Ketukang, BCD (Plane Logistic Regulated Agent)."
+                "company": "Prudential",
+                "title": "Software Quality Assurance Ops Lead",
+                "years": "September 2019 - September 2020",
+                "description": "Build a small team which can deliver a big contribution to insurance business, by improve the scalability and reliability of quality engineering."
             },
             {
-                "company": "Komuri Geekgarden",
+                "company": "IDEMIA",
                 "title": "System Analyst",
-                "years": "December 2017 - September 2018",
-                "description": "Analyst Bussines plan Technology System BCD (Plane Logistic Regulated Agent)."
+                "years": "February 2019 - August 2019",
+                "description": "Exploring automation platform technology, and customize own platform testing tool by utilizing python, UI Path, and RPA "
             },
             {
-                "company": "Komuri Geekgarden",
-                "title": "Senior Application Developer",
-                "years": "November 2017 - September 2018",
-                "description": "Build Sabaindomedika Apps and Web with PHP (Laravel Framework)."
+                "company": "IDEMIA",
+                "title": "Senior Software Engineer",
+                "years": "July 2014 - January 2019",
+                "description": "Develop and maintain a platform, to help the company to deliver a smart card product in end to end business chain process using a proprietary technology called eWAM"
             },
             {
-                "company": "Komuri Geekgarden",
-                "title": "Android Developer",
+                "company": "ANZ BANK",
+                "title": "Voice Network Engineer",
                 "years": "August 2017 - November 2017",
-                "description": "Build Sabaindomedika & Ketukang apps with Java Native."
+                "description": "Maintain voice network within the company on their PABX system"
             },
             {
-                "company": "Techno intermedia",
-                "title": "Freelancer",
+                "company": "Metindo Instrument",
+                "title": "Business Owner",
                 "years": "January 2015 - December 2016",
-                "description": "Build Chat Apps for corporate."
+                "description": "Build and sell a sophisticated electrical instrumentation system for agricultural, plantation and aviation."
             }
         ],
         "skills": [
             {
                 "name": "Git",
-                "level": "70%"
+                "level": "90%"
             },
             {
                 "name": "eWam Gold Parser",
                 "level": "100%"
             },
             {
-                "name": "ReactJs",
-                "level": "80%"
-            },
-            {
-                "name": "CSS",
+                "name": "Python",
                 "level": "90%"
             },
             {
-                "name": "HTML5",
+                "name": "Vb Script",
+                "level": "60%"
+            },
+            {
+                "name": "Typescript",
+                "level": "50%"
+            },
+            {
+                "name": "Javascript",
+                "level": "40%"
+            },
+            {
+                "name": "Groovy",
+                "level": "60%"
+            },
+            {
+                "name": "Katalon",
                 "level": "80%"
             },
             {
-                "name": "PHP",
-                "level": "80%"
-            },
-            {
-                "name": "MongoDB",
-                "level": "80%"
-            },
-            {
-                "name": "Java Native",
+                "name": "UI Path",
                 "level": "100%"
             },
             {
-                "name": "Swift",
+                "name": "Silk Test Workbench",
                 "level": "70%"
             },
             {
-                "name": "Flutter",
+                "name": "Webdriver.io",
+                "level": "40%"
+            },
+            {
+                "name": "Selenium IDE",
+                "level": "60%"
+            },
+            {
+                "name": "testcafe",
+                "level": "30%"
+            },
+            {
+                "name": "JMeter",
+                "level": "80%"
+            },
+            {
+                "name": "Postman",
+                "level": "80%"
+            },
+            {
+                "name": "Galing.io",
+                "level": "40%"
+            },
+            {
+                "name": "App Center",
+                "level": "80%"
+            },
+            {
+                "name": "Jenkins CI",
+                "level": "60%"
+            },
+            {
+                "name": "Docker",
                 "level": "50%"
+            },
+            {
+                "name": "Circle CI",
+                "level": "40%"
+            },
+            {
+                "name": "Google Cloud Platform",
+                "level": "60%"
+            },
+            {
+                "name": "Microsoft Azure",
+                "level": "30%"
+            },
+            {
+                "name": "Vultr",
+                "level": "60%"
+            },
+            {
+                "name": "Kiwi Test case management",
+                "level": "100%"
+            },
+            {
+                "name": "JIRA",
+                "level": "90%"
+            },
+            {
+                "name": "Testlink",
+                "level": "70%"
             }
         ]
     },
     "portfolio": {
-        "projects": [
-            {
-                "title": "Saba Indomedika ERP",
-                "category": "ERP & CRM for Hospital infrastructure contractor",
-                "image": "SabaIndomedika.png",
-                "url": "https://sabaindomedika.com/"
-            },
-            {
-                "title": "Ketukang Apps",
-                "category": "Mobile apps for finding home construction workers",
-                "image": "ketukang.jpg",
-                "url": "https://play.google.com/store/apps/details?id=id.ketukang.ketukang_customer&hl=in"
-            },
-            {
-                "title": "Saba Customer Care",
-                "category": "Mobile apps for Sabaindomedika customer",
-                "image": "sabacustomercare.png",
-                "url": "https://play.google.com/store/apps/details?id=com.sabaindomedika.stscustomer"
-            },
-            {
-                "title": "Saba Customer Support",
-                "category": "Mobile apps for sabaindomedika workers and information about Hospital infrastructure",
-                "image": "sabacustomersupport.png",
-                "url": "https://play.google.com/store/apps/details?id=id.geekgarden.esi"
-            },
-            {
-                "title": "Sindo Ferry Booking",
-                "category": "Mobile apps for booking Sindo Ferry from Singapore to Indonesian",
-                "image": "sindoferryapps.png",
-                "url": "https://play.google.com/store/apps/details?id=com.sindo.ferry"
-            }
-        ]
     },
     "testimonials": {
         "testimonials": [
             {
-                "text": "The absence of believe that makes people afraid to face challenges; and I believe in myself.",
-                "user": "Muhammad Ali"
+                "text": "To be an inventor, you have to be willing to live with a sense of uncertainty, to work in this darkness and grope towards an answer, to put up with anxiety about whether there is an answer ",
+                "user": "Ray Dolby"
             },
             {
                 "text": "Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart, and if you give them tools, they’ll do wonderful things with them.",
