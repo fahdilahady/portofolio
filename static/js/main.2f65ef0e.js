@@ -2795,24 +2795,24 @@
     function xr(e, t, n, r, i) {
         var a = t.current;
         e: if (n) {
-            n = n._reactInternalFiber;
-            t: {
-                2 === Ne(n) && 1 === n.tag || o("170");
-                var l = n;do {
-                    switch (l.tag) {
-                        case 3:
-                            l = l.stateNode.context;
-                            break t;
-                        case 1:
-                            if (vt(l.type)) { l = l.stateNode.__reactInternalMemoizedMergedChildContext; break t }
-                    }
-                    l = l.return
-                } while (null !== l);o("171"),
-                l = void 0
-            }
-            if (1 === n.tag) { var u = n.type; if (vt(u)) { n = xt(n, u, l); break e } }
-            n = l
-        } else n = Zi;
+                n = n._reactInternalFiber;
+                t: {
+                    2 === Ne(n) && 1 === n.tag || o("170");
+                    var l = n;do {
+                        switch (l.tag) {
+                            case 3:
+                                l = l.stateNode.context;
+                                break t;
+                            case 1:
+                                if (vt(l.type)) { l = l.stateNode.__reactInternalMemoizedMergedChildContext; break t }
+                        }
+                        l = l.return
+                    } while (null !== l);o("171"),
+                    l = void 0
+                }
+                if (1 === n.tag) { var u = n.type; if (vt(u)) { n = xt(n, u, l); break e } }
+                n = l
+            } else n = Zi;
         return null === t.context ? t.context = n : t.pendingContext = n, t = i, i = Bt(r), i.payload = { element: e }, t = void 0 === t ? null : t, null !== t && (i.callback = t), Kn(), Wt(a, i), nr(a, r), r
     }
 
@@ -5978,7 +5978,7 @@
         }(),
         s = function(e) {
             function t() { return r(this, t), o(this, (t.__proto__ || Object.getPrototypeOf(t)).apply(this, arguments)) }
-            return i(t, e), u(t, [{ key: "render", value: function() { if (this.props.data) var e = this.props.data.testimonials.map(function(e) { return l.a.createElement("li", { key: e.user }, l.a.createElement("blockquote", null, l.a.createElement("p", null, e.text), l.a.createElement("cite", null, e.user))) }); return l.a.createElement("section", { id: "testimonials" }, l.a.createElement("div", { className: "text-container" }, l.a.createElement("div", { className: "row" }, l.a.createElement("div", { className: "two columns header-col" }, l.a.createElement("h1", null, l.a.createElement("span", null, "Client Testimonials"))), l.a.createElement("div", { className: "ten columns flex-container" }, l.a.createElement("ul", { className: "slides" }, e))))) } }]), t
+            return i(t, e), u(t, [{ key: "render", value: function() { if (this.props.data) var e = this.props.data.testimonials.map(function(e) { return l.a.createElement("li", { key: e.user }, l.a.createElement("blockquote", null, l.a.createElement("p", null, e.text), l.a.createElement("cite", null, e.user))) }); return l.a.createElement("section", { id: "testimonials" }, l.a.createElement("div", { className: "text-container" }, l.a.createElement("div", { className: "row" }, l.a.createElement("div", { className: "two columns header-col" }, l.a.createElement("h1", null, l.a.createElement("span", null, "Testimonials"))), l.a.createElement("div", { className: "ten columns flex-container" }, l.a.createElement("ul", { className: "slides" }, e))))) } }]), t
         }(a.Component);
     t.a = s
 }, function(e, t, n) {
