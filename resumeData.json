@@ -16,8 +16,7 @@
         },
         "website": "https://hazainworld.blogspot.com/",
         "resumedownload": "https://drive.google.com/file/d/1hQc3uhIRPBoVC2TXrKN45Ir50QIWHDQe/view?usp=sharing",
-        "social": [
-            {
+        "social": [{
                 "name": "facebook",
                 "url": "http://facebook.com/fahdilAhady",
                 "className": "fa fa-facebook"
@@ -41,8 +40,7 @@
     },
     "resume": {
         "skillmessage": "I never works a day in my life, it's all just fun - A. Edisson 1931",
-        "education": [
-            {
+        "education": [{
                 "school": "Bina Nusantara University",
                 "degree": "Master of IT",
                 "graduated": "2014",
@@ -55,12 +53,11 @@
                 "description": "Mastering Electrical instrumentation for agriculture, hydrology and aviation"
             }
         ],
-        "work": [
-            {
+        "work": [{
                 "company": "mhealthbank.com",
                 "title": "Software Quality Assurance Lead",
                 "years": "September 2020 - Present",
-                "description": "Lead a small team to delivery best quality of healthcare mobile and web application"
+                "description": "Lead a small team to deliver best quality of healthcare mobile and web application"
             },
             {
                 "company": "Prudential",
@@ -70,7 +67,7 @@
             },
             {
                 "company": "IDEMIA",
-                "title": "System Analyst",
+                "title": "Automation Engineer",
                 "years": "February 2019 - August 2019",
                 "description": "Exploring automation platform technology, and customize own platform testing tool by utilizing python, UI Path, and RPA "
             },
@@ -90,11 +87,10 @@
                 "company": "Metindo Instrument",
                 "title": "Business Owner",
                 "years": "January 2015 - December 2016",
-                "description": "Build and sell a sophisticated electrical instrumentation system for agricultural, plantation and aviation."
+                "description": "Build and sell a sophisticate electrical instrumentation system for agricultural, plantation and aviation."
             }
         ],
-        "skills": [
-            {
+        "skills": [{
                 "name": "Git",
                 "level": "90%"
             },
@@ -200,10 +196,9 @@
             }
         ]
     },
-   
+
     "testimonials": {
-        "testimonials": [
-            {
+        "testimonials": [{
                 "text": "To be an inventor, you have to be willing to live with a sense of uncertainty, to work in this darkness and grope towards an answer, to put up with anxiety about whether there is an answer ",
                 "user": "Ray Dolby"
             },
