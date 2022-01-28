@@ -53,10 +53,17 @@
                 "description": "Mastering Electrical instrumentation for agriculture, hydrology and aviation"
             }
         ],
-        "work": [{
+        "work": [
+            {
+                "company": "fundingsocieties.com",
+                "title": "Senior Quality Engineer",
+                "years": "April 2021 - Present",
+                "description": "Mantain WEB app automation testing code using WDIO"
+            },
+            {
                 "company": "mhealthbank.com",
                 "title": "Software Quality Assurance Lead",
-                "years": "September 2020 - Present",
+                "years": "September 2020 - April 2021",
                 "description": "Lead a small team to deliver best quality of healthcare mobile and web application"
             },
             {
@@ -108,7 +115,7 @@
             },
             {
                 "name": "Typescript",
-                "level": "50%"
+                "level": "70%"
             },
             {
                 "name": "Javascript",
@@ -132,7 +139,7 @@
             },
             {
                 "name": "Webdriver.io",
-                "level": "40%"
+                "level": "80%"
             },
             {
                 "name": "Selenium IDE",
@@ -148,7 +155,7 @@
             },
             {
                 "name": "Postman",
-                "level": "80%"
+                "level": "90%"
             },
             {
                 "name": "Gatling.io",
@@ -168,7 +175,7 @@
             },
             {
                 "name": "Circle CI",
-                "level": "40%"
+                "level": "30%"
             },
             {
                 "name": "Google Cloud Platform",
