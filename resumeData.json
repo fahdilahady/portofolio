@@ -97,15 +97,15 @@
                 "description": "Build and sell a sophisticate electrical instrumentation system for agricultural, plantation and aviation."
             }
         ],
-        "skills": [{
+        "skills": [
             {
                 "name": "eWam Gold Parser",
                 "level": "100%"
             },
+            {
                 "name": "Git",
                 "level": "90%"
             },
-
             {
                 "name": "Python",
                 "level": "90%"
