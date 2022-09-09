@@ -171,11 +171,6 @@
                 "name": "JMeter",
                 "level": "80%"
             },
-
-            {
-                "name": "Gatling.io",
-                "level": "40%"
-            },
             {
                 "name": "App Center",
                 "level": "80%"
