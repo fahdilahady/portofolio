@@ -15,7 +15,6 @@
             "zip": "35677 - Indonesia"
         },
         "website": "https://hazainworld.blogspot.com/",
-        "resumedownload": "https://drive.google.com/file/d/1NklLu1Fg2QbnHXIwdsXH_xZ4f4GoaN-w/view?usp=sharing",
         "social": [{
                 "name": "facebook",
                 "url": "http://facebook.com/fahdilAhady",
@@ -35,6 +34,11 @@
                 "name": "github",
                 "url": "http://github.com/fahdilahady",
                 "className": "fa fa-github"
+            },
+            {
+                "name": "CV",
+                "url": "https://drive.google.com/file/d/1NklLu1Fg2QbnHXIwdsXH_xZ4f4GoaN-w/view?usp=sharing",
+                "className": "fa fa-briefcase"
             }
         ]
     },
