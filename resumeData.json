@@ -15,7 +15,7 @@
             "zip": "35677 - Indonesia"
         },
         "website": "https://hazainworld.blogspot.com/",
-        "resumedownload": "https://drive.google.com/file/d/1hQc3uhIRPBoVC2TXrKN45Ir50QIWHDQe/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1NklLu1Fg2QbnHXIwdsXH_xZ4f4GoaN-w/view?usp=sharing",
         "social": [{
                 "name": "facebook",
                 "url": "http://facebook.com/fahdilAhady",
@@ -53,17 +53,22 @@
                 "description": "Mastering Electrical instrumentation for agriculture, hydrology and aviation"
             }
         ],
-        "work": [
+        "work": [{
+                "company": "kuelap.io",
+                "title": "Senior Quality Engineer",
+                "years": "July 2022 - Present",
+                "description": "Mantain WEB app automation testing code using WDIO"
+            },
             {
                 "company": "fundingsocieties.com",
                 "title": "Senior Quality Engineer",
-                "years": "April 2021 - Present",
+                "years": "May 2021 - July 2022",
                 "description": "Mantain WEB app automation testing code using WDIO"
             },
             {
                 "company": "mhealthbank.com",
                 "title": "Software Quality Assurance Lead",
-                "years": "September 2020 - April 2021",
+                "years": "September 2020 - May 2021",
                 "description": "Lead a small team to deliver best quality of healthcare mobile and web application"
             },
             {
@@ -97,8 +102,7 @@
                 "description": "Build and sell a sophisticate electrical instrumentation system for agricultural, plantation and aviation."
             }
         ],
-        "skills": [
-            {
+        "skills": [{
                 "name": "eWam Gold Parser",
                 "level": "100%"
             },
@@ -112,7 +116,7 @@
             },
             {
                 "name": "Typescript",
-                "level": "80%"
+                "level": "90%"
             },
             {
                 "name": "Vb Script",
@@ -124,11 +128,15 @@
             },
             {
                 "name": "Javascript",
-                "level": "40%"
+                "level": "60%"
             },
             {
                 "name": "UI Path",
                 "level": "100%"
+            },
+            {
+                "name": "Cypress",
+                "level": "85%"
             },
             {
                 "name": "Katalon",
@@ -136,7 +144,7 @@
             },
             {
                 "name": "Webdriver.io",
-                "level": "80%"
+                "level": "90%"
             },
             {
                 "name": "Silk Test Workbench",
