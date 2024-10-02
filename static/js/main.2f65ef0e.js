@@ -3796,7 +3796,7 @@
         }(),
         w = function(e) {
             function t(e) { r(this, t); var n = o(this, (t.__proto__ || Object.getPrototypeOf(t)).call(this, e)); return n.state = { foo: "bar", resumeData: {} }, u.a.initialize("UA-110570651-1"), u.a.pageview(window.location.pathname), n }
-            return i(t, e), b(t, [{ key: "getResumeData", value: function() { c.a.ajax({ url: "portofolio/resumeData.json", dataType: "json", cache: !1, success: function(e) { this.setState({ resumeData: e }) }.bind(this), error: function(e, t, n) { console.log(n), alert(n) } }) } }, { key: "componentDidMount", value: function() { this.getResumeData() } }, { key: "render", value: function() { return l.a.createElement("div", { className: "App" }, l.a.createElement(p.a, { data: this.state.resumeData.main }), l.a.createElement(h.a, { data: this.state.resumeData.main }), l.a.createElement(m.a, { data: this.state.resumeData.resume }), l.a.createElement(g.a, { data: this.state.resumeData.portfolio }), l.a.createElement(v.a, { data: this.state.resumeData.testimonials }), l.a.createElement(y.a, { data: this.state.resumeData.main }), l.a.createElement(d.a, { data: this.state.resumeData.main })) } }]), t
+            return i(t, e), b(t, [{ key: "getResumeData", value: function() { c.a.ajax({ url: "resumeData.json", dataType: "json", cache: !1, success: function(e) { this.setState({ resumeData: e }) }.bind(this), error: function(e, t, n) { console.log(n), alert(n) } }) } }, { key: "componentDidMount", value: function() { this.getResumeData() } }, { key: "render", value: function() { return l.a.createElement("div", { className: "App" }, l.a.createElement(p.a, { data: this.state.resumeData.main }), l.a.createElement(h.a, { data: this.state.resumeData.main }), l.a.createElement(m.a, { data: this.state.resumeData.resume }), l.a.createElement(g.a, { data: this.state.resumeData.portfolio }), l.a.createElement(v.a, { data: this.state.resumeData.testimonials }), l.a.createElement(y.a, { data: this.state.resumeData.main }), l.a.createElement(d.a, { data: this.state.resumeData.main })) } }]), t
         }(a.Component);
     t.a = w
 }, function(e, t, n) {
@@ -6015,7 +6015,7 @@
         if ("serviceWorker" in navigator) {
             if (new URL("", window.location).origin !== window.location.origin) return;
             window.addEventListener("load", function() {
-                var e = "portofolio/service-worker.js";
+                var e = "service-worker.js";
                 a ? i(e) : o(e)
             })
         }
