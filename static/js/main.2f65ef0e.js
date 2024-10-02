@@ -6015,7 +6015,7 @@
         if ("serviceWorker" in navigator) {
             if (new URL("", window.location).origin !== window.location.origin) return;
             window.addEventListener("load", function() {
-                var e = "/service-worker.js";
+                var e = "portofolio/service-worker.js";
                 a ? i(e) : o(e)
             })
         }
